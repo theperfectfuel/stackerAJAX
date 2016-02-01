@@ -45,3 +45,11 @@
 	background-color: #F78181;
 	padding: 1em;
 }
+
+.user {
+	display: inline-block;
+}
+
+.profile-image {
+	float: right;
+}
